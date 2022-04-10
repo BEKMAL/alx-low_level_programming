@@ -5,8 +5,8 @@
 *
 * return 0 after printing the fumction
 */
-int main(void)
+int main (void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-return(0);
+return (0);
 }

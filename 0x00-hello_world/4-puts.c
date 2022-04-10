@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * is_positive - Check if a number is greater than 0
- * @nb: The number to be checked
+ * main entery point
  *
- * Return: 1 if the number is positive. 0 otherwise
+ * Return: 0 after printing statement
  */
 int main(void)
 {

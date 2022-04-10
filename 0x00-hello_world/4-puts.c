@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
 *
-*main program
+*main- entry point
 *
-* to print statement
+* return 0 after printing the fumction
 */
 int main(void)
 {

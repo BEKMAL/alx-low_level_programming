@@ -1,9 +1,9 @@
-#include <studio.h>
+#include <stdio.h>
 /**
 *
 *main program
 *
-* tp print statement
+* to print statement
 */
 int main(void)
 {

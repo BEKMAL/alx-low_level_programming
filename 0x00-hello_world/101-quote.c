@@ -5,9 +5,9 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void)
+int main()
 {
-puts("and that piece of art is useful"");
+puts("and that piece of art is useful");
 puts("- Dora Korpar, 2015-10-19 ");
 return (1);
 }

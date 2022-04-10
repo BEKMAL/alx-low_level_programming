@@ -1,9 +1,9 @@
 #include <stdio.h>
+
 /**
- * this is simple c program to print statement
- * main entery point
+ * main - Entry point
  *
- * Return: 0 after printing statement
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

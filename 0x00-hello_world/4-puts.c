@@ -1,5 +1,6 @@
 #include <stdio.h>
 /**
+ * this is simple c program to print statement
  * main entery point
  *
  * Return: 0 after printing statement
